@@ -1,4 +1,4 @@
-# MQ-135 Spatial Analytics Dashboard
+# Iot Spatial Analytics Dashboard
 
 A Unity AR dashboard that reads MQ-135 samples from an ESP8266 through a Python API. It displays the ADC value, connection, gauge, and threshold response.
 
