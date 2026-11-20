@@ -6,7 +6,7 @@ A Unity AR dashboard that reads MQ-135 samples from an ESP8266 through a Python 
 
 **Unity scene / WebPreview**
 
-![Unity scene preview](webpreview.png)
+![Unity scene preview](https://raw.githubusercontent.com/satyam2006-cmd/Iot-spatial-analytics-dashboard/main/webpreview.png)
 
 **Live AR output**
 
